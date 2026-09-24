@@ -86,7 +86,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashshirswe&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mubashshirswe&color=blueviolet&style=flat-square&label=Profile+views" />
-</p>
