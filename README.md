@@ -2,7 +2,7 @@
 <h3 align="center">Senior Backend Engineer · Golang · PHP/Laravel · Cloud-Native Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=3%2B+years+building+scalable+backends;Leading+a+6-person+backend+team+%40+SAHIY;ERP+%2F+GL+accounting+%40+BM+Electronics;Go+%E2%80%A2+Laravel+%E2%80%A2+Kubernetes+%E2%80%A2+Redis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=3%2B+years+building+scalable+backends;Leading+a+6-person+backend+team+%40+SAHIY;Go+%E2%80%A2+Laravel+%E2%80%A2+Kubernetes+%E2%80%A2+Redis" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,6 @@
 
 ### 🧑‍💻 About me
 
-- 🏢 **Senior Backend Engineer** @ **BM Electronics**: ERP platform built on General Ledger (GL) accounting
 - 👥 **Backend Team Lead** @ **[SAHIY](https://sahiy.uz)**: e-commerce platform integrated with Alibaba (1688, Taobao), **1M+ users**
 - 🏗 Modular monoliths, microservices and clean code
 - 🌍 Based in Tashkent, Uzbekistan, **open to remote**
@@ -60,7 +59,6 @@
 
 | Role | Company | Period |
 |---|---|---|
-| Senior Backend Engineer | BM Electronics | Jul 2026 – Present |
 | Backend Team Lead | SAHIY | Nov 2024 – Present |
 | Web Developer | Asaxiy LLC | Mar 2024 – May 2024 |
 | Backend Software Engineer | UPPER | Sep 2023 – Nov 2023 |
