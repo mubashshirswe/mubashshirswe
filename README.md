@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About me
 
-- 👥 **Backend Team Lead** @ **[SAHIY](https://sahiy.uz)**: e-commerce platform integrated with Alibaba (1688, Taobao), **1M+ users**
+- 👥 **Development Team Lead** @ **[SAHIY](https://sahiy.uz)**: e-commerce platform integrated with Alibaba (1688, Taobao), **1M+ users**
 - 🏗 Modular monoliths, microservices and clean code
 - 🌍 Based in Tashkent, Uzbekistan, **open to remote**
 
@@ -59,11 +59,11 @@
 
 | Role | Company | Period |
 |---|---|---|
-| Backend Team Lead | SAHIY | Nov 2024 – Present |
+| Development Team Lead | SAHIY | Nov 2024 – Present |
 | Web Developer | Asaxiy LLC | Mar 2024 – May 2024 |
-| Backend Software Engineer | UPPER | Sep 2023 – Nov 2023 |
+| Backend Engineer | UPPER | Sep 2023 – Nov 2023 |
 | Backend Mentor | PDP Junior | Oct 2023 – Nov 2023 |
-| Backend Developer | OPTIMIT | Apr 2023 – Sep 2023 |
+| Backend Engineer | OPTIMIT | Apr 2023 – Sep 2023 |
 
 ### 📌 Open-source projects
 
